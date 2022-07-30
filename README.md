@@ -12,6 +12,13 @@ It implements a basic procedural infinite voxel terrain generator (terrain, cave
 
 - [Unity3D](https://unity3d.com/) - Game Development Platform
 
+## Images
+
+![Play Mode View](Img/game_mode_view.PNG?raw=true "Play Mode View")
+![View](Img/view.PNG?raw=true "View")
+![Face View](Img/face_view.PNG?raw=true "Face View")
+![Up View](Img/up_view.PNG?raw=true "Up View")
+
 ## Authors
 
 - **Richard ALLEMAN** - [Maugun](https://github.com/Maugun)
