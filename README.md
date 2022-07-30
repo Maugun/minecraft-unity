@@ -8,10 +8,6 @@ It implements a basic procedural infinite voxel terrain generator (terrain, cave
 
 - Install Unity3D (Only for Dev)
 
-### Download
-
-- [Download Link](https://github.com/Maugun/minecraft-unity/releases)
-
 ## Built With
 
 - [Unity3D](https://unity3d.com/) - Game Development Platform
