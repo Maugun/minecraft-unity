@@ -2,7 +2,7 @@
 
 **Minecraft Unity** is a basic implementation of [Minecraft](https://en.wikipedia.org/wiki/Minecraft) in Unity
 
-It implements a basic procedural infinite voxel terrain generator (terrain, cave, chunk)
+It implements a basic infinite procedural voxel terrain generator (terrain, cave, chunk)
 
 ### Prerequisites
 
